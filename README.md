@@ -12,7 +12,6 @@ This project aims to train a YOLO (You Only Look Once) model on a dataset to det
 
 3. **YOLO Format Conversion**: The data was then converted into YOLO format, where each image is accompanied by an annotation file specifying the object class (helmet) and its bounding box coordinates.
 
-## Future work for now!!
 ## Training Process
 
 1. **YOLO Model Selection**: We chose a YOLO model suitable for real-time object detection, balancing accuracy and inference speed.
@@ -44,7 +43,3 @@ This project aims to train a YOLO (You Only Look Once) model on a dataset to det
 ## Conclusion
 
 This project demonstrates the process of training a YOLO model for real-time helmet detection, from data preparation to model deployment. By leveraging YOLO's efficiency and accuracy, we aim to enhance safety measures in various applications.
-
----
-
-Feel free to expand on any of these points or add more details specific to your project's workflow and requirements!
